@@ -44,7 +44,7 @@
 - 页面增加参数介绍（来自原文档的inference和调试过程中的理解）
 - face enhancer : 可以选择 gfphan1.4, gfpgan 1.3 gfpgan1.2等， 并设置up_scale(放大的数值)
 - input_yaw_list等三个参数， 输入范例（数字之间留一个空格）：
-<img src='./input_yaw_list.png' width='380'/>
+- <img src='./input_yaw_list.png' width='380'/>
 - the batch size of facerender : 表情幅度大小（最好在0.7-1.05之间）
 
 

@@ -35,6 +35,8 @@
 
 </div>
 
+## 原项目链接 https://github.com/OpenTalker/SadTalker
+
 ## 在kaggle 上运行
 ！！！打开gpu加速
 文件链接 ：https://www.kaggle.com/code/bingbingbing246/sadtalker-kaggle
@@ -45,8 +47,10 @@
 |<img src='input_yaw_list.png' width='380'>
 - the batch size of facerender : 表情幅度大小（最好在0.7-1.05之间）
 
-## Highlights
 
+
+
+## Highlights
 - The license has been updated to Apache 2.0, and we've removed the non-commercial restriction
 - **SadTalker has now officially been integrated into Discord, where you can use it for free by sending files. You can also generate high-quailty videos from text prompts. Join: [![Discord](https://dcbadge.vercel.app/api/server/rrayYqZ4tf?style=flat)](https://discord.gg/rrayYqZ4tf)**
 
